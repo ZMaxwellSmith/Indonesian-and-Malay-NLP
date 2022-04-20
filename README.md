@@ -1,3 +1,3 @@
-# IndonesianNLP
+# Indonesian-and-Malay-NLP
 
-Indonesian NLP work. Education Specific NLP.
+Indonesian and Malay NLP work. Education Specific NLP.
